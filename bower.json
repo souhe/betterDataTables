@@ -4,7 +4,11 @@
   "main": [ "hbsDataTables.js"],
   "ignore": 
   [
-    "index.*"
+    "index.*",
+    "node_modules",
+    "bower_components",
+    "Gruntfile.js",
+    "package.json"
   ],
   "dependencies": { "jquery": "latest" ,
                    "datatables": "latest"}
