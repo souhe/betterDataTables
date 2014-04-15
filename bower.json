@@ -1,0 +1,11 @@
+{
+  "name": "hbsDataTables",
+  "version": "0.0.1",
+  "main": [ "hbsDataTables.js"],
+  "ignore": 
+  [
+    "index.*"
+  ],
+  "dependencies": { "jquery": "latest" ,
+                   "datatables": "latest"}
+}

@@ -1,0 +1,27 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+node_modules
+bower_components
+deploy
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+.idea
